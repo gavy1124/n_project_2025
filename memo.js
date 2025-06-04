@@ -1,3 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>숫자 맞추기 게임</h1>
+
+  <div id="resultArea">결과값이 여기에 나옵니다.</div>
+  <div id="chanceArea">남은기회 : 5회</div>
+  <input type="number" id="userInput">
+  <button id="playBtn">Go</button>
+  <button id="resetBtn">Reset</button>
+
+
+  <script src="main.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /**
  * getElementbyClassName : 클래스 이름으로 선택
  * getElementbyId : id 이름으로 선택
